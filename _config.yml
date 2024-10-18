@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: M Hemdan # the website title (if blank, full name will be used instead)
 first_name: Mohamed
-middle_name: A.
+middle_name: 
 last_name: Hemdan
 email: hemda001@umn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -132,8 +132,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: my blogs # blog_name will be displayed in your blog page
+blog_description: a simple set of blogs for general information in CS
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
