@@ -40,10 +40,7 @@
       "startDate": "2023-02-01",
       "endDate": "2023-07-01",
       "summary": "Analyzed user interactions and determined important factors for user engagement with notifications and news.",
-      "highlights": [
-        "Collaborated with WebXT notifications team",
-        "Determined high-priority features for improved user experience"
-      ]
+      "highlights": ["Collaborated with WebXT notifications team", "Determined high-priority features for improved user experience"]
     },
     {
       "name": "European Council for Nuclear Research (CERN), Geneva, Switzerland",
@@ -52,10 +49,7 @@
       "startDate": "2022-06-01",
       "endDate": "2022-08-01",
       "summary": "Worked on federated learning for high-energy physics simulations and GAN model training for calorimeter simulations.",
-      "highlights": [
-        "Developed a distributed GAN training model",
-        "Adapted models to federated learning for large-scale data"
-      ]
+      "highlights": ["Developed a distributed GAN training model", "Adapted models to federated learning for large-scale data"]
     }
   ],
   "volunteer": [

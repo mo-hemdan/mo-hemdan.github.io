@@ -35,10 +35,7 @@
       "startDate": "2023-02-01",
       "endDate": "2023-07-01",
       "summary": "Analyzed user interactions and features to determine high-importance factors in user engagement with news and notifications.",
-      "highlights": [
-        "Collaborated with the WebXT notifications team.",
-        "Identified key features for improved user experience and engagement."
-      ]
+      "highlights": ["Collaborated with the WebXT notifications team.", "Identified key features for improved user experience and engagement."]
     },
     {
       "name": "European Council for Nuclear Research (CERN), Geneva, Switzerland",
@@ -47,10 +44,7 @@
       "startDate": "2022-06-01",
       "endDate": "2022-08-01",
       "summary": "Developed and distributed GAN model training for calorimeter simulations across CERN servers and the LHC computing grid. Adapted models to federated learning for large-scale data access.",
-      "highlights": [
-        "Worked on federated learning for high-energy physics simulations.",
-        "Developed distributed GAN models for large-scale data."
-      ]
+      "highlights": ["Worked on federated learning for high-energy physics simulations.", "Developed distributed GAN models for large-scale data."]
     },
     {
       "name": "envelope.network, Boston, MA, US (Remote)",
@@ -59,9 +53,7 @@
       "startDate": "2021-07-01",
       "endDate": "2021-08-01",
       "summary": "Developed a browser extension to extract interest from browsing history and match it with ads.",
-      "highlights": [
-        "Developed a Chrome extension to analyze user browsing history."
-      ]
+      "highlights": ["Developed a Chrome extension to analyze user browsing history."]
     },
     {
       "name": "Alexandria University, Alexandria, Egypt",
@@ -70,9 +62,7 @@
       "startDate": "2021-06-01",
       "endDate": "2021-08-01",
       "summary": "Introduced a data augmentation technique for outdoor localization systems using conditional GANs, improving accuracy by 22.2%.",
-      "highlights": [
-        "Improved data augmentation techniques for WiFi localization."
-      ]
+      "highlights": ["Improved data augmentation techniques for WiFi localization."]
     }
   ],
   "education": [
@@ -85,10 +75,7 @@
       "startDate": "2023-08-01",
       "endDate": "2028-06-01",
       "score": "",
-      "courses": [
-        "Spatial Data Management",
-        "Federated Learning"
-      ]
+      "courses": ["Spatial Data Management", "Federated Learning"]
     },
     {
       "institution": "The American University in Cairo (AUC)",
@@ -99,10 +86,7 @@
       "startDate": "2017-01-01",
       "endDate": "2023-01-01",
       "score": "3.94/4.00",
-      "courses": [
-        "Indoor Localization Systems",
-        "3D Computer Vision"
-      ]
+      "courses": ["Indoor Localization Systems", "3D Computer Vision"]
     }
   ],
   "awards": [
@@ -178,39 +162,20 @@
     {
       "name": "Machine Learning",
       "level": "Advanced",
-      "keywords": [
-        "Deep Learning",
-        "GANs",
-        "Federated Learning",
-        "CNNs"
-      ]
+      "keywords": ["Deep Learning", "GANs", "Federated Learning", "CNNs"]
     },
     {
       "name": "Data Mining",
       "level": "Advanced",
-      "keywords": [
-        "Map-Reduce",
-        "Spark",
-        "PostGIS",
-        "PostgreSQL"
-      ]
+      "keywords": ["Map-Reduce", "Spark", "PostGIS", "PostgreSQL"]
     },
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Python",
-        "C++",
-        "C",
-        "JavaScript"
-      ]
+      "keywords": ["Python", "C++", "C", "JavaScript"]
     },
     {
       "name": "Version Control & DevOps",
-      "keywords": [
-        "Git",
-        "Docker",
-        "Ansible"
-      ]
+      "keywords": ["Git", "Docker", "Ansible"]
     }
   ],
   "languages": [
@@ -226,29 +191,18 @@
   "interests": [
     {
       "name": "Spatial Data Management",
-      "keywords": [
-        "Map Matching",
-        "Map Inference",
-        "GPS Accuracy Enhancement"
-      ]
+      "keywords": ["Map Matching", "Map Inference", "GPS Accuracy Enhancement"]
     },
     {
       "name": "Federated Learning",
-      "keywords": [
-        "Distributed Systems",
-        "High-Energy Physics Simulations",
-        "GANs"
-      ]
+      "keywords": ["Distributed Systems", "High-Energy Physics Simulations", "GANs"]
     }
   ],
   "projects": [
     {
       "name": "Federated Learning for Calorimeter Simulation",
       "summary": "Developed a distributed GAN training model for calorimeter simulations at CERN. Adapted models for federated learning to access large-scale data across the LHC computing grid.",
-      "highlights": [
-        "Improved GAN training efficiency across distributed systems.",
-        "Collaborated with CERN Openlab team."
-      ],
+      "highlights": ["Improved GAN training efficiency across distributed systems.", "Collaborated with CERN Openlab team."],
       "startDate": "2022-06-01",
       "endDate": "2022-08-01",
       "url": ""
