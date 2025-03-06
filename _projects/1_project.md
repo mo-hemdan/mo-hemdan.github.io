@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Metadata Map Services
+title: Mapedia
 description: Making Map Metadata open-source to navigation and map-related services
 img: assets/img/12.jpg
 importance: 1
